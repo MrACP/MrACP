@@ -1,4 +1,4 @@
-<h1>Hi, I'm Akshay! <br/><a href="https://www.linkedin.com/in/akshayparulekar/">Cybersecurity | Web Development | Data Analytics Practitioner</a>
+<h1>Hi, I'm Akshay! <br/><a href="https://www.linkedin.com/in/akshayparulekar/">Data Analytics | Cybersecurity | Web Development </a>
 
 <h2>💫 About Me:</h2>
 💻 Cybersecurity, Web Development & Data Analytics enthusiast.<br>
@@ -13,6 +13,13 @@
   - [Active Directory Home Lab Demonstration](https://github.com/MrACP/ActiveDirectoryLab)
 - <b>Vulnerability Management</b> (In progress)
   - [Vulnerability Management using NESSUS](https://github.com/MrACP/NessusVulnerabilityManagement)
+ 
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Forest-Fire-Prediction]([https://github.com/MrACP/ActiveDirectoryLab](https://github.com/MrACP/Forest-Fire-Prediction))
+- <b>Vulnerability Management</b> (In progress)
+  - [Normalization-Validation-UI Private](https://github.com/MrACP/Normalization-Validation-UI)
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
