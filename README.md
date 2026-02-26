@@ -16,10 +16,10 @@
  
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Forest-Fire-Prediction]([https://github.com/MrACP/ActiveDirectoryLab](https://github.com/MrACP/Forest-Fire-Prediction))
-- <b>Vulnerability Management</b> (In progress)
-  - [Normalization-Validation-UI Private](https://github.com/MrACP/Normalization-Validation-UI)
+- <b>Forest Fire Prediction</b>
+  - [Forest Fire Prediction](https://github.com/MrACP/Forest-Fire-Prediction)
+- <b>Normalization Validation UI</b> (In progress)
+  - [Normalization Validation UI](https://github.com/MrACP/Normalization-Validation-UI)
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
