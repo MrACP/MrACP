@@ -84,7 +84,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MrACP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Security%20is%20not%20a%20feature.%20It%20is%20a%20design%20decision.&author=Akshay)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrACP&limit=5&theme=dark&combine_all_yearly_contributions=true)
