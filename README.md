@@ -14,7 +14,7 @@
 - <b>Vulnerability Management</b> (In progress)
   - [Vulnerability Management using NESSUS](https://github.com/MrACP/NessusVulnerabilityManagement)
  
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>📊 Data Analytics Projects:</h2>
 
 - <b>Forest Fire Prediction</b>
   - [Forest Fire Prediction](https://github.com/MrACP/Forest-Fire-Prediction)
