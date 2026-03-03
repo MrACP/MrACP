@@ -5,7 +5,7 @@
 🔭 Working on Vulnerability Management.<br>
 📊 Open to collaboration in Data Analytics.<br>
 🛡️ Seeking support in Cybersecurity.<br>
-♘   Ask me about Chess.
+♘  Ask me about Chess.
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
